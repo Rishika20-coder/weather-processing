@@ -78,7 +78,7 @@ Follow these steps to run the Rule Engine project locally on your machine.
    Clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/Harsh2191/weather-processing
+   git clone https://github.com/Rishika20-coder/weather-processing
 2 .Navigate to the Backend Directory
 
     cd backend
